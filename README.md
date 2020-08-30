@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Java-8 and Blockchain
 - 📫 How to reach me: ... [Stackoverflow Profile](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)
 - 😄 Pronouns: ... He/Him/boi
-- ⚡ Fun fact: ... Striving to get into JPMC
+- ⚡ Fun fact: ... Working hard..
 
