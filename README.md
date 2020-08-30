@@ -19,3 +19,7 @@
 [<img align="left" alt="Vishwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/visvishwa_)
 [<img align="left" alt="Vishwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vishwa-ratna-393621100/)
 [<img align="left" alt="Vishwa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vishwa_ratna/)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vishwaratna&show_icons=true&theme=radical)
+
