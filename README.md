@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**vishwaratna/vishwaratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Stackoverflow Profile](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)
 - 😄 Pronouns: ... He/Him/boi
 - ⚡ Fun fact: ... Striving to get into JPMC
--->
+
