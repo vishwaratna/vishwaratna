@@ -1,15 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Vishwa Ratna - aka [Vishwa](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)👋
 
 
+### Connect with me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Blockchain and Java
-- 🌱 I’m currently learning ... GraphQL
-- 👯 I’m looking to collaborate on ... Blockchain and Java
-- 🤔 I’m looking for help with ... Node.js
-- 💬 Ask me about ... Java-8 and Blockchain
-- 📫 How to reach me: ... [Stackoverflow Profile](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)
-- 😄 Pronouns: ... He/Him/boi
-- ⚡ Fun fact: ... Working hard..
-
+[<img align="left" alt="Vishwa | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)
+[<img align="left" alt="Vishwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/visvishwa_)
+[<img align="left" alt="Vishwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vishwa-ratna-393621100/)
+[<img align="left" alt="Vishwa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vishwa_ratna/)
