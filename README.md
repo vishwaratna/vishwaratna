@@ -1,5 +1,5 @@
 ### Hi there, I'm Vishwa Ratna - aka [Vishwa](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)👋
-<br />
+
 
 ### Awards and recommendations 🏆
 
