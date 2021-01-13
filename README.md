@@ -1,7 +1,7 @@
 ### Hi there, I'm Vishwa Ratna - aka [Vishwa](https://stackoverflow.com/users/4964136/vishwa-ratna?tab=profile)👋
 
 
-### Awards and recommendations 🏆
+### Security Researcher and Software Developer recognised and awarded by 🏆
 
 
 [<img align="left" alt="Vishwa | Honeywell" width="90px" src="https://1000logos.net/wp-content/uploads/2017/12/Honeywell-Logo.png" />](https://www.honeywell.com/en-us/product-security#items_304654820/)
